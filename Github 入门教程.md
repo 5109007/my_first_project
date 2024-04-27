@@ -8,18 +8,18 @@
 
 #### 白嫖代码
 
-![image-20240427185732204](Github 入门教程.assets/image-20240427185732204.png)
+<img src="Github 入门教程.assets/image-20240427185732204.png" alt="image-20240427185732204" />
 
 #### 创建项目
 
-![image-20240427185838068](Github 入门教程.assets/image-20240427185838068.png)
+<img src="Github 入门教程.assets/image-20240427185838068.png" alt="image-20240427185838068" />
 
-![image-20240427185936911](Github 入门教程.assets/image-20240427185936911.png)
+<img src="Github 入门教程.assets/image-20240427185936911.png" alt="image-20240427185936911" />
 
 
 
 #### 互动交（撕）流（逼）
 
-![image-20240427190028463](Github 入门教程.assets/image-20240427190028463.png)
+<img src="Github 入门教程.assets/image-20240427190028463.png" alt="image-20240427190028463" />
 
-![image-20240427190120082](Github 入门教程.assets/image-20240427190120082.png)
+<img src="Github 入门教程.assets/image-20240427190120082.png" alt="image-20240427190120082" />
