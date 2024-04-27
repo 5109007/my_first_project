@@ -1,6 +1,6 @@
 ### Github 入门教程
 
-![image-20240427190142003](Github 入门教程.assets/image-20240427190142003.png)
+<img src="Github 入门教程.assets/image-20240427190142003.png" alt="image-20240427190142003" />
 
 * 白嫖代码
 * 创建项目
